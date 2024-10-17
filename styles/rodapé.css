@@ -1,0 +1,9 @@
+hr {
+    margin: 0;
+}
+/* Guilherme.Fidelis.2c.17/10/2024
+*/
+.rodapé {
+    background-color: var(--branco);
+    padding: 1em;
+}
